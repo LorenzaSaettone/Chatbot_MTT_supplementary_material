@@ -10,7 +10,7 @@
 
 The chatbot backend is a Flask server communicating with GPT-4o via the OpenAI API. Participant responses are evaluated in two distinct phases, each with its own prompt.
 
-### A.1 Similarity Phase (temperature = 0)
+### A.1 Similarity Phase (temperature = 0.5)
 
 **System prompt:**
 
