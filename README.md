@@ -147,7 +147,7 @@ On incorrect responses, the system delivers three progressive hints (hardcoded p
 
 The twelve Physical and Mental Metaphors (Del Sette et al., 2020) used for pre- and post-training assessment. The same items were administered in Italian and French; English translations are provided here.
 
-### Pre-training (6 items)
+**Pre-training (6 items)**
 
 1. The footballer is an arrow
 2. Mummy is a candy
@@ -156,7 +156,7 @@ The twelve Physical and Mental Metaphors (Del Sette et al., 2020) used for pre- 
 5. Dancers are butterflies
 6. Grandma is a column
 
-### Post-training (6 items)
+**Post-training (6 items)**
 
 1. My brother is a skyscraper
 2. Players are elephants
@@ -165,24 +165,39 @@ The twelve Physical and Mental Metaphors (Del Sette et al., 2020) used for pre- 
 5. Climbers are squirrels
 6. That pupil is a sponge
 
+### B.1 PMM Scoring Examples
+
+Each PMM response is scored 0 (incorrect), 1 (partially correct), or 2 (fully correct) by two independent raters, following the criteria defined by Del Sette et al. (2020). A score of 2 requires identifying the property that is most salient in the interaction between the two domains of the metaphor; a score of 1 is assigned when the response captures a plausible but non-target property; a score of 0 is assigned when the response is literal, off-topic, or incorrect.
+
+| Metaphor | Response | Score | Rationale |
+|---|---|---|---|
+| The chef is a barrel | "The chef holds all the secrets of cooking" | 0 | Confuses the idiom "in a barrel of iron" (i.e., safe/protected) with "barrel" as a physical descriptor; the relevant shared property is physical roundness/large size |
+| The footballer is an arrow | "The footballer kicks the ball precisely like an arrow" | 0 | Misattributes the metaphor to the ball rather than the footballer; the metaphor states that the footballer *is* an arrow, not that the ball behaves like one |
+| The footballer is an arrow | "The footballer is precise" | 1 | Identifies a plausible property of arrows, but the target similarity is speed/directionality |
+| The footballer is an arrow | "The footballer is fast and direct, like an arrow" | 2 | Correctly identifies the shared property: speed and directionality |
+| That pupil is a sponge | "The pupil drinks" | 1 | Captures a partial mapping (absorbing liquid); the target property in the pupil–sponge interaction is absorbing knowledge |
+| That pupil is a sponge | "The pupil absorbs knowledge easily, like a sponge absorbs water" | 2 | Correctly identifies the shared property emerging from the interaction between the two domains |
+
+---
+
 ## C. VR Scenario Screenshots
 
 The eight VR scenarios corresponding to MTT training items. Each scenario translates a visual metaphor into an interactive, game-like quest.
 
 ### Scenarios 1–4
 
-![VR scenarios 1-4](from 1 to 4 screenshots vr.png)
+![VR scenarios 1–4](from%201%20to%204%20screenshots%20vr.png)
 
-1. **Spinning Top = Ballerina** — A child's room with toys on the floor. The participant must find a ballerina among the toys and place her on a shelf-stage framed by a red curtain. Distractor: a ballerina drawing in a book.
-2. **Grandpa = Ancient Tree** — An elderly man's house with a piano. The participant must find the "roots" (a vintage photo) and place them under the "trunk" (a wooden cane). Distractor: a real tree visible outside the window.
-3. **Oasis = Beacon** — An oasis in the desert beside a collapsed man. The participant must fill the "beacon" (an empty bottle) with light (oasis water) and bring it to the "ship in trouble" (the collapsed person). No distractor. (Discrators are to  be intened as litear meanings, not off-topic objects, like those which are presnet in this scene, like a treasure, a book, etc.)
-4. **Angry Person = Bomb** — A crowded bus stop near a park. The participant must defuse the metaphorical "bomb" by offering a flower to the angry person. Distractor: a real bomb.
+1. **Spinning Top = Ballerina** — A child's room with toys on the floor. The participant must find a ballerina among the toys and place her on a shelf-stage framed by a red curtain. *Distractor:* a ballerina drawing in a book.
+2. **Grandpa = Ancient Tree** — An elderly man's house with a piano. The participant must find the "roots" (a vintage photo) and place them under the "trunk" (a wooden cane). *Distractor:* a real tree visible outside the window.
+3. **Oasis = Beacon** — An oasis in the desert beside a collapsed man. The participant must fill the "beacon" (an empty bottle) with light (oasis water) and bring it to the "ship in trouble" (the collapsed person). *No distractor.* (Distractors are literal-meaning objects; other objects present in the scene, such as a treasure or a book, are off-topic items, not literal distractors.)
+4. **Angry Person = Bomb** — A crowded bus stop near a park. The participant must defuse the metaphorical "bomb" by offering a flower to the angry person. *Distractor:* a real bomb.
 
 ### Scenarios 5–8
 
-![VR scenarios 5-8](from 4 to 8 screenshots vr.png)
+![VR scenarios 5–8](from%204%20to%208%20screenshots%20vr.png)
 
-5. **Windows = Eyes** — A summer courtyard in front of a house. The participant must "open someone's eyes" by ringing the doorbell and opening the house's window-"eyes." Distractor: a figure with closed eyes on a bench.
-6. **Xmas Decorations = Jewels** — A Christmas living room with fire and radio music. The participant must "dress" the Christmas tree with jewels (earrings and baubles). No distractor.
-7. **Farmer = Rooster** — A rural setting with a ranch and farm animals. The participant must "feed the rooster," i.e., photograph the vain farmer showing off his muscles. Distractor: a real rooster and grain.
-8. **Bridal Veil = Fog** — A Gothic square with church, gargoyles, boutique, and fog. The participant must dissipate the fog, i.e., cut the veil on a mannequin. Distractor: real fog.
+5. **Windows = Eyes** — A summer courtyard in front of a house. The participant must "open someone's eyes" by ringing the doorbell and opening the house's window-"eyes." *Distractor:* a figure with closed eyes on a bench.
+6. **Xmas Decorations = Jewels** — A Christmas living room with fire and radio music. The participant must "dress" the Christmas tree with jewels (earrings and baubles). *No distractor.*
+7. **Farmer = Rooster** — A rural setting with a ranch and farm animals. The participant must "feed the rooster," i.e., photograph the vain farmer showing off his muscles. *Distractor:* a real rooster and grain.
+8. **Bridal Veil = Fog** — A Gothic square with church, gargoyles, boutique, and fog. The participant must dissipate the fog, i.e., cut the veil on a mannequin. *Distractor:* real fog.
